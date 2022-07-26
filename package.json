@@ -1,5 +1,5 @@
 {
-  "name": "react-native-tcp",
+  "name": "axia-react-native-tcp",
   "version": "4.0.0",
   "description": "node's net API for react-native",
   "main": "TcpSockets.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aprock/react-native-tcp"
+    "url": "https://github.com/neeraj-axia/react-native-tcp"
   },
   "keywords": [
     "react-component",
@@ -24,14 +24,14 @@
     "android"
   ],
   "author": {
-    "name": "Andy Prock",
-    "email": "aprock@protonmail.com"
+    "name": "Neeraj Bhasin",
+    "email": "neeraj@axiacoin.org"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aprock/react-native-tcp/issues"
+    "url": "https://github.com/neeraj-axia/react-native-tcp/issues"
   },
-  "homepage": "https://github.com/aprock/react-native-tcp",
+  "homepage": "https://github.com/neeraj-axia/react-native-tcp",
   "peerDependencies": {
     "react-native": ">=0.60.0"
   },
